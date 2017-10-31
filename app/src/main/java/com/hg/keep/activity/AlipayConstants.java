@@ -4,7 +4,7 @@ package com.hg.keep.activity;
  * Created by sfm on 2017-10-28.
  */
 
-public class AliConstants {
+public class AlipayConstants {
     //开发者公钥
     public static String ALIPAY_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnwlpMHGd9yjoi5ulp7zNHhnWSVXGDuTYvr4PRDx7yQ4L+ckfJlR+cTtTeXOSHdgbPfiBZBs9rgRL8y8IpQDV5ThKW+qnzfyRE/kK25vJrv35LkkgwaYYd+aF/ztDU7d0bptP/GitCQHrYpp8vfmFtcQP6u51hnqVBF52ZulqNmydypIV+pSrTLtsn/0ysYbohHC3qtoPjJy7Bh/hwra36rFoToTICtiqzZV0WlRHW+ldOKCPLyVitq1gELS5iI/CLfQb5BSKmggqQa5Gj/5Fy94HD7bofAWgZA3v2ZGcix+EHnkG4A0BykaIOOUPQ/xTaiMuaY30tOnkQofCuZmnhQIDAQAB";
 

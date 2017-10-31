@@ -1,5 +1,12 @@
 *.iml
-.gradle
-.idea
 /local.properties
 /build
+/.gradle/
+/.idea/
+/build/
+/gradle.properties
+/gradlew
+/Keep.iml
+/gradlew.bat
+libs/
+src/main/res/drawable/
